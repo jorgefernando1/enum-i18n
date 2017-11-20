@@ -1,0 +1,3 @@
+module EnumI18n
+  # Your code goes here...
+end
